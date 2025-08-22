@@ -40,7 +40,8 @@
 ## 📌 Projects (Highlighted)
 - 🔐 **Aegis Files** – Desktop app with **Face Recognition & File Encryption**.
 - 🤖 **Machine Learning** – Practice projects on **Supervised & Supervized Learning, Data cleaning, Models understanding, Visualization, Pipelines etc.**
-- 📄 **Data Science** – no projects  **Learning Stage** <!--  
+- 📄 **Data Science** – no projects  **Learning Stage**
+- 💠 **Kaggle** – Titanic - Machine Learning from Disaster competition **Score 0.78486**  <!--  
 - 💰 **AI-Powered Expense Tracker** – Smart suggestions & privacy-focused personal finance app.  
 - 🧠 **ML Specialization Projects** – Regression, Classification, Neural Networks.  
 -->
@@ -54,7 +55,8 @@
 
 ## 🌐 Connect With Me
 - 📧 [abbaskhan0345060@gmail.com](mailto:abbaskhan0345060@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/hazrat-abbas-khan-113136329) *(add if available)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hazrat-abbas-khan-113136329)
+- 💠 [Kaggle](https://www.kaggle.com/hazratabbaskhan)
 - 🎓 **Coursera Profiles**  
   - [Coursera Profile 1](https://www.coursera.org/user/04c30f99b14a260da612958e80e4f2e2)
   - [Coursera Profile 2](https://www.coursera.org/user/38d00dd142f0d077c7271da72ec56e25)  
