@@ -41,8 +41,8 @@
 - 🔐 **Aegis Files** – Desktop app with **Face Recognition & File Encryption**.
 - 🤖 **Machine Learning** – Practice projects on **Supervised & Supervized Learning, Data cleaning, Models understanding, Visualization, Pipelines etc.**
 - 📄 **Data Science** – no projects  **Learning Stage**
-- 💠 **Kaggle** – Titanic - Machine Learning from Disaster competition **Score 0.78486**  <!--  
-- 💰 **AI-Powered Expense Tracker** – Smart suggestions & privacy-focused personal finance app.  
+- 💠 **Kaggle** – Titanic - Machine Learning from Disaster competition **Score 0.78486**   
+<!-- - 💰 **AI-Powered Expense Tracker** – Smart suggestions & privacy-focused personal finance app.  
 - 🧠 **ML Specialization Projects** – Regression, Classification, Neural Networks.  
 -->
 ---
