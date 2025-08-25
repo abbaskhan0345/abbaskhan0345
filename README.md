@@ -1,65 +1,71 @@
-# Hi there, I'm Hazrat Abbas Khan 👋  
-
-🎓 **BS Software Engineering (7th Semester)**  
-🤖 **Aspiring Machine Learning & Data Science Engineer**  
-💻 Passionate about AI, Machine Learning, Data Science, Software Development, and Secure Applications  
+<h1 align="center">Hi 👋, I'm Hazrat Abbas Khan</h1>
+<h3 align="center">🎓 BS Software Engineering | 🤖 Aspiring ML & Data Science Engineer</h3>
 
 ---
 
 ## 🚀 About Me
-- 🧑‍🎓 Final-year student of **Bachelors of Science in Software Engineering**
+- 🎓 Final-year student of **BS Software Engineering (7th Semester)**
 - 📚 Completed:
-  - **Machine Learning Specialization (Coursera)**  
-  - **Complete Git Specialization (Coursera)**
-  - **Many more in my cousera profiles** 
-- 📊 Currently pursuing a **Data Science course** to enhance analytics & applied ML skills.  
-- 🔍 Interests: AI, Software Engineering, and real-world ML applications.  
+  - 🎯 **Machine Learning Specialization – Coursera**  
+  - 🛠️ **Git Specialization – Coursera**  
+  - 🌍 *More on my Coursera profiles (links below)*  
+- 📊 Currently pursuing a **Data Science course** to sharpen ML & analytics skills
+- 💡 Interested in **AI, Software Engineering, and real-world ML applications**  
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack  
 
-### 💡 Languages
-- 🐍 **Python** (High)  
-- ⚡ JavaScript (Medium)  
-- 🗄️ SQL (Medium)  
-- 💻 C++ (Low)  
-- 🌐 HTML, CSS (Web Basics)  
+### 💡 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
-### 📊 ML & Data Science
-- **Core Libraries:** NumPy, Pandas, Scikit-learn  
-- **Other Tools:** Matplotlib, Seaborn, TensorFlow  
+### 📊 ML & Data Science  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat&logoColor=white)  
 
-### 🛠️ Software & Dev
-- **Version Control:** Git (Specialization completed)  
-- **Frameworks/Tools:** PyQt5, Jupyter Notebook, Jupyter Lab, VS code, Figma
-- **Other Skills:** Software Design & Architecture, Software Project Management and other software engineering related subjects. 
-
----
-
-## 📌 Projects (Highlighted)
-- 🔐 **Aegis Files** – Desktop app with **Face Recognition & File Encryption**.
-- 🤖 **Machine Learning** – Practice projects on **Supervised & Supervized Learning, Data cleaning, Models understanding, Visualization, Pipelines etc.**
-- 📄 **Data Science** – no projects  **Learning Stage**
-- 💠 **Kaggle** – Titanic - Machine Learning from Disaster competition **Score 0.78486**   
-<!-- - 💰 **AI-Powered Expense Tracker** – Smart suggestions & privacy-focused personal finance app.  
-- 🧠 **ML Specialization Projects** – Regression, Classification, Neural Networks.  
--->
----
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abbaskhan0345&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbaskhan0345&layout=compact&theme=tokyonight)  
+### 🛠️ Software & Dev  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
 
 ---
 
-## 🌐 Connect With Me
-- 📧 [abbaskhan0345060@gmail.com](mailto:abbaskhan0345060@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hazrat-abbas-khan-113136329)
-- 💠 [Kaggle](https://www.kaggle.com/hazratabbaskhan)
-- 🎓 **Coursera Profiles**  
-  - [Coursera Profile 1](https://www.coursera.org/user/04c30f99b14a260da612958e80e4f2e2)
-  - [Coursera Profile 2](https://www.coursera.org/user/38d00dd142f0d077c7271da72ec56e25)  
+## 📌 Featured Projects  
+- 🔐 **Aegis Files** – Desktop app with **Face Recognition & File Encryption**  
+- 🤖 **Machine Learning** – Practice projects: **Data Cleaning, Visualization, Pipelines, Regression, Classification**  
+- 📄 **Data Science** – *Currently learning, projects in progress*  
+- 💠 **Kaggle** – Titanic ML Competition (**Score: 0.78486**)  
 
 ---
-✨ Always eager to collaborate on ML, DS, and AI-driven projects!
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abbaskhan0345&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbaskhan0345&layout=compact&theme=tokyonight" alt="Top Languages" width="40%"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+📧 **Email:** [abbaskhan0345060@gmail.com](mailto:abbaskhan0345060@gmail.com)  
+💼 **LinkedIn:** [Hazrat Abbas Khan](https://www.linkedin.com/in/hazrat-abbas-khan-113136329)  
+💠 **Kaggle:** [Hazrat Abbas Khan](https://www.kaggle.com/hazratabbaskhan)  
+🎓 **Coursera:**  
+- [Profile 1](https://www.coursera.org/user/04c30f99b14a260da612958e80e4f2e2)  
+- [Profile 2](https://www.coursera.org/user/38d00dd142f0d077c7271da72ec56e25)  
+
+---
+
+✨ *Always eager to collaborate on ML, DS, and AI-driven projects!* 🚀
