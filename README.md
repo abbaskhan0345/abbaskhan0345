@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />, I'm Hazrat Abbas Khan</h1>
 <h3 align="center">🎓 BS Software Engineering | 🤖 Aspiring ML & Data Science Engineer </h3>
-<img align="right" alt="GIF" height="160px" style='z-index: 2;' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<br>
 
 ---
 
@@ -12,7 +10,8 @@
   - 🛠️ **Git Specialization – Coursera**  
   - 🌍 *More on my Coursera profiles (links below)*  
 - 📊 Currently pursuing a **Data Science course** to sharpen ML & analytics skills
-- 💡 Interested in **AI, Software Engineering, and real-world ML applications**  
+- 💡 Interested in **AI, Software Engineering, and real-world ML applications**
+<img align="right" alt="GIF" height="160px" style='z-index: 2;' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ---
 
