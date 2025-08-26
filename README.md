@@ -4,6 +4,7 @@
 ---
 
 ## 🚀 About Me
+<img align="right" alt="GIF" height="160px" style='z-index: 2;' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - 🎓 Final-year student of **BS Software Engineering (7th Semester)**
 - 📚 Completed:
   - 🎯 **Machine Learning Specialization – Coursera**  
@@ -11,7 +12,7 @@
   - 🌍 *More on my Coursera profiles (links below)*  
 - 📊 Currently pursuing a **Data Science course** to sharpen ML & analytics skills
 - 💡 Interested in **AI, Software Engineering, and real-world ML applications**
-<img align="right" alt="GIF" height="160px" style='z-index: 2;' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 ---
 
