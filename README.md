@@ -9,7 +9,8 @@
 - 🎓 Final-year student of **BS Software Engineering (7th Semester)**
 - 📚 Completed:
   - 🎯 **Machine Learning Specialization – Coursera**  
-  - 🛠️ **Git Specialization – Coursera**  
+  - 🛠️ **Git Specialization – Coursera**
+  - 💱 **What is Data Science? – Coursera**  
   - 🌍 *More on my Coursera profiles (links below)*  
 - 📊 Currently pursuing a **Data Science course** to sharpen ML & analytics skills
 - 💡 Interested in **AI, Software Engineering, and real-world ML applications**
