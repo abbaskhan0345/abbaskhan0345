@@ -1,48 +1,100 @@
-# Hi 👋, I'm Hazrat Abbas Khan
-### 🎓 BS Software Engineering | 🤖 Aspiring ML & Data Science Engineer
+<h1 align="center">Hi <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />, I'm Hazrat Abbas Khan</h1>
+<h3 align="center">🎓 BS Software Engineering | 🤖 Aspiring ML & Data Science Engineer</h3>
+
+---
 
 ## 🚀 About Me
-<img align="right" alt="Coding GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="Coding GIF" height="160px" style='z-index: 2;' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🎓 Final-year BS Software Engineering student (7th Semester).
-- 📚 Completed: Machine Learning Specialization, Git Specialization, What is Data Science? (Coursera). More on profiles below.
-- 📊 Pursuing Data Science course for ML & analytics skills.
-- 💡 Interests: AI, Software Engineering, real-world ML apps.
+- 🎓 Final-year student of **BS Software Engineering (7th Semester)**
+- 📚 Completed:
+  - 🎯 **Machine Learning Specialization – Coursera**
+  - 🛠️ **Git Specialization – Coursera**
+  - 💱 **What is Data Science? – Coursera**
+  - 🌍 *More on my Coursera profiles (links below)*
+- 📊 Currently pursuing a **Data Science course** to sharpen ML & analytics skills
+- 💡 Interested in **AI, Software Engineering, and real-world ML applications**
 
-## 🛠️ Tech Stack
-| Languages | ML & Data Science | Software & Dev |
-|-----------|-------------------|----------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=plotly&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat&logoColor=white) | |
+---
 
-## 📌 Featured Projects
-- 🔐 **Aegis Files**: Desktop app with face recognition & file encryption.
-- 🏡 **[Bengaluru House Prediction](https://github.com/abbaskhan0345/Bengoloro_House_prediction_project)**: ML model for house prices in Bengaluru; deployed on Hugging Face.
-- 📊 **[Data Science Specialization](https://github.com/abbaskhan0345/Data-Science-Specialization-Coursera-)**: Coursera notebooks on data science.
-- 📈 **[Data Visualization Python](https://github.com/abbaskhan0345/data-visualization-python)**: Examples with Matplotlib & Seaborn.
-- 🔢 **[NumPy Learning](https://github.com/abbaskhan0345/numpy-learning)**: NumPy examples for data analysis.
-- 🐍 **[Python Basics](https://github.com/abbaskhan0345/python-basics)**: Beginner exercises & notebooks.
-- 🏗️ **[Software Design & Architecture](https://github.com/abbaskhan0345/Software-Design-and-Architecture-)**: University projects on design principles.
-- 💠 **Kaggle Titanic Competition**: Score 0.78486.
+## 🛠️ Tech Stack  
 
-## 📚 Publications
-- **[Data Integrity in Cloud](https://sesjournal.org/index.php/1/article/view/1162)** | Spectrum of Engineering Sciences.
-- **[Fuzzy Logic Traffic Control](https://sesjournal.org/index.php/1/article/view/1348)** | Spectrum of Engineering Sciences.
+<table>
+<tr>
+<td valign="top" width="33%">
 
-## 📊 GitHub Stats
+### 💡 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+
+</td>
+<td valign="top" width="33%">
+
+### 📊 ML & Data Science  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat&logoColor=white)  
+
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ Software & Dev  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Featured Projects  
+
+- 🔐 **Aegis Files** – Desktop app with **Face Recognition & File Encryption**
+- 🏡 **[Bengaluru House Prediction](https://github.com/abbaskhan0345/Bengoloro_House_prediction_project)** – ML model for house price prediction; deployed on Hugging Face  
+- 📊 **[Data Science Specialization](https://github.com/abbaskhan0345/Data-Science-Specialization-Coursera-)** – Coursera notebooks on Data Science concepts  
+- 📈 **[Data Visualization Python](https://github.com/abbaskhan0345/data-visualization-python)** – Visualization examples using Matplotlib & Seaborn  
+- 🔢 **[NumPy Learning](https://github.com/abbaskhan0345/numpy-learning)** – NumPy examples for data analysis  
+- 🐍 **[Python Basics](https://github.com/abbaskhan0345/python-basics)** – Beginner Python exercises & notebooks  
+- 🏗️ **[Software Design & Architecture](https://github.com/abbaskhan0345/Software-Design-and-Architecture-)** – Projects on software design principles  
+- 💠 **Kaggle Titanic Competition** – Achieved **Score: 0.78486**
+
+---
+
+## 📚 Publications  
+
+- 📘 **[Data Integrity in Cloud](https://sesjournal.org/index.php/1/article/view/1162)** – *Spectrum of Engineering Sciences*  
+- 🚦 **[Fuzzy Logic Traffic Control](https://sesjournal.org/index.php/1/article/view/1348)** – *Spectrum of Engineering Sciences*
+
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abbaskhan0345&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbaskhan0345&layout=compact&theme=tokyonight" alt="Top Languages" width="40%"/>
 </p>
 
-## 🌐 Connect
-- 📧 [abbaskhan0345060@gmail.com](mailto:abbaskhan0345060@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hazrat-abbas-khan-113136329)
-- 💠 [Kaggle](https://www.kaggle.com/hazratabbaskhan)
-- 🎓 Coursera: [Profile 1](https://www.coursera.org/user/04c30f99b14a260da612958e80e4f2e2) | [Profile 2](https://www.coursera.org/user/38d00dd142f0d077c7271da72ec56e25)
+---
 
-✨ Eager to collaborate on ML, DS, & AI projects! 🚀
+## 🌐 Connect With Me  
+📧 **Email:** [abbaskhan0345060@gmail.com](mailto:abbaskhan0345060@gmail.com)  
+💼 **LinkedIn:** [Hazrat Abbas Khan](https://www.linkedin.com/in/hazrat-abbas-khan-113136329)  
+💠 **Kaggle:** [Hazrat Abbas Khan](https://www.kaggle.com/hazratabbaskhan)  
+🎓 **Coursera:**  
+- [Profile 1](https://www.coursera.org/user/04c30f99b14a260da612958e80e4f2e2)  
+- [Profile 2](https://www.coursera.org/user/38d00dd142f0d077c7271da72ec56e25)  
+
+---
+
+✨ *Eager to collaborate on ML, DS, and AI-driven projects!* 🚀
